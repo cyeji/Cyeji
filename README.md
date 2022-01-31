@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyeji
 - 👀 I’m interested in communicating many people.
-- 🌱 I’m currently learning SpringBoot, reace etc..
+- 🌱 I’m currently learning SpringBoot, react etc..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me choyeji1591@gmail.com
 
