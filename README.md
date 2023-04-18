@@ -1,6 +1,4 @@
-<div align="center">
-         <H1>YejiCho</H1>
-</div>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yejiCho&fontAlign=80&fontAlignY=40&color=gradient)
 
 <H2> Introduce </H2>
 
