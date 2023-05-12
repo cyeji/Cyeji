@@ -1,21 +1,16 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yejiCho&fontAlign=80&fontAlignY=40&color=gradient)
 
-<H2> Introduce </H2>
+<H3> Introduce </H3>
 
 <div align="center">
-다양한 경험이 있어야 상황에 맞는 개발을 할 수 있다 생각해 경험을 쌓아가는 주니어 백엔드 개발자 조예지입니다.
+다양한 경험을 통해 발전해나가고 있는 백엔드 개발자 조예지입니다.
 </div>
 </br>
 <div>
 
-- SpringBoot, AWS 를 이용해 서버 구축 및 RestfulAPI를 개발한 경험이 있습니다.
-- 꾸준한 공부 가장 큰 성공이라는 것을 알기에 기술 블로그, 1일1커밋을 실천하고 있습니다.
-- 완벽한 것은 존재하지 않다고 생각하기에 개선 요소를 찾으려고 노력합니다.
-- 반복되는 일을 자동화하고 비효율적인 프로세스를 개선하는 것을 좋아합니다.
-
 </div>
 
-<H2> TechSkill </H2>
+<H3> TechSkill </H3>
 
 <li style="margin-top: 10px">Backend</li>
 <div style="justify-content:space-around; align-items:stretch">
@@ -38,7 +33,21 @@
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 </div>
 
-<H2> Github </H2>
+<H3>My latest posts </H3>
+
+- 💡 [@EventListener를 이용한 의존성 분리](https://yejipro.tistory.com/entry/EventListener%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%B6%84%EB%A6%AC) </br>
+    최근 진행한 프로젝트에서 사용한 @EventListener에 대한 개념 정리 시간을 가져보았습니다 :)
+- 💡 [TGather-Jenkins-이용한-Github-프로젝트-배포-자동화하기](https://yejipro.tistory.com/entry/TGather-Jenkins-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0) </br>
+    현재 진행중인 TGather 프로젝트 Jenkins 적용기에 대한 과정을 작성해보았습니다.
+
+<H3>My latest project </H3>
+
+**[여행 모임 플랫폼 TGather](https://github.com/ys-developer/TGather)** 
+Travel + ToGather 함께 여행을 떠나자는 의미로 여행 모임 플랫폼 TGather를 개발중입니다.
+
+<H3> Github </H3>
+
+역량 발전을 위해서 TIL, 1일 1commit을 통해 공부한 내용을 정리해나가고 있습니다.
 
 <div>
 
@@ -47,7 +56,12 @@
 
 </div>
 
-<H2> BaekJoon </H2>
+<H3> BaekJoon </H3>
+
+알고리즘 구현기술을 높히기 위해 꾸준히 알고리즘 문제를 풀어나가고 있습니다. </br>
+많은 알고리즘 프로젝트를 만들며 알고리즘 스터디를 해왔습니다. 현재는 **['알고리즘까지 브론즈가 될 순 없어'](https://github.com/algorithm-cote-study/baekjoon-algorithm)** 프로젝트를 만들어
+함께 알고리즘 공부, 코드리뷰를 하고 있습니다.
+
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goe152)
 
