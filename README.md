@@ -59,7 +59,7 @@ Travel + ToGather 함께 여행을 떠나자는 의미로 여행 모임 플랫�
 <H3> BaekJoon </H3>
 
 알고리즘 구현기술을 높히기 위해 꾸준히 알고리즘 문제를 풀어나가고 있습니다. </br>
-많은 알고리즘 프로젝트를 만들며 알고리즘 스터디를 해왔습니다. 현재는 **['알고리즘까지 브론즈가 될 순 없어'](https://github.com/algorithm-cote-study/baekjoon-algorithm)** 프로젝트를 만들어
+현재는 **['알고리즘까지 브론즈가 될 순 없어'](https://github.com/algorithm-cote-study/baekjoon-algorithm)** 프로젝트를 만들어
 함께 알고리즘 공부, 코드리뷰를 하고 있습니다.
 
 
