@@ -10,27 +10,15 @@
 </div>
 
 <H3> TechSkill </H3>
-
-<li style="margin-top: 10px">Backend</li>
-<div style="justify-content:space-around; align-items:stretch">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-</div>
-<li style="margin-top: 10px">Database</li>
-<div style="justify-content:space-around; align-items:stretch">
-    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</div>
-<li style="margin-top: 10px">Language</li>
-<div style="justify-content:space-around; align-items:stretch">
-    <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-<li style="margin-top: 10px">Frontend</li>
-<div style="justify-content:space-around; align-items:stretch">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-</div>
+ <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+ <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+
 
 <H3>My latest posts </H3>
 
