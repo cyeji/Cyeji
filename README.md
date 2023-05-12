@@ -2,9 +2,8 @@
 
 <H3> Introduce </H3>
 
-<div align="center">
 다양한 경험을 통해 발전해나가고 있는 백엔드 개발자 조예지입니다.
-</div>
+
 </br>
 <div>
 
