@@ -32,7 +32,7 @@
 
 <H3>My latest project </H3>
 
-**[여행 모임 플랫폼 TGather](https://github.com/ys-developer/TGather)** 
+**[여행 모임 플랫폼 TGather](https://github.com/growth-genius)** 
 Travel + ToGather 함께 여행을 떠나자는 의미로 여행 모임 플랫폼 TGather를 개발중입니다.
 
 <H3> Github </H3>
