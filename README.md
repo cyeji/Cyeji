@@ -26,7 +26,8 @@
 <H3>My latest posts </H3>
 
 - 💡 [Github branch protection rule 적용하기](https://yejipro.tistory.com/entry/Github-Branch-Protection-Rule-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) </br>
-- 💡 [TGather-Jenkins-이용한-Github-프로젝트-배포-자동화하기](https://yejipro.tistory.com/entry/TGather-Jenkins-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0) 
+- 💡 [Github Merge후 branch 삭제하기](https://yejipro.tistory.com/entry/Github-Github-PR%ED%9B%84-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) 
+- 💡 [Spring에서 지연로딩 데이터 갖고오기](https://yejipro.tistory.com/entry/Spring%EC%97%90%EC%84%9C-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%96%EA%B3%A0%EC%98%A4%EA%B8%B0) 
 
 <H3>My latest project </H3>
 
