@@ -25,10 +25,8 @@
 
 <H3>My latest posts </H3>
 
-- 💡 [@EventListener를 이용한 의존성 분리](https://yejipro.tistory.com/entry/EventListener%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%B6%84%EB%A6%AC) </br>
-    최근 진행한 프로젝트에서 사용한 @EventListener에 대한 개념 정리 시간을 가져보았습니다 :)
-- 💡 [TGather-Jenkins-이용한-Github-프로젝트-배포-자동화하기](https://yejipro.tistory.com/entry/TGather-Jenkins-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0) </br>
-    현재 진행중인 TGather 프로젝트 Jenkins 적용기에 대한 과정을 작성해보았습니다.
+- 💡 [Github branch protection rule 적용하기](https://yejipro.tistory.com/entry/Github-Branch-Protection-Rule-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) </br>
+- 💡 [TGather-Jenkins-이용한-Github-프로젝트-배포-자동화하기](https://yejipro.tistory.com/entry/TGather-Jenkins-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0) 
 
 <H3>My latest project </H3>
 
