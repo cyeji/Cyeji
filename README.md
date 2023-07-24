@@ -28,13 +28,14 @@
 |---|--|--|
 |에스이파트너즈|2022.10.01~2023.04.30|풀스택 개발|
 |솔루엠|2020.09.01~2022.09.23|백엔드 개발|
-
+</br>
 <H3>My latest posts </H3>
 
 - 💡 [Github branch protection rule 적용하기](https://yejipro.tistory.com/entry/Github-Branch-Protection-Rule-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) </br>
 - 💡 [Github Merge후 branch 삭제하기](https://yejipro.tistory.com/entry/Github-Github-PR%ED%9B%84-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) 
 - 💡 [Spring에서 지연로딩 데이터 갖고오기](https://yejipro.tistory.com/entry/Spring%EC%97%90%EC%84%9C-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%96%EA%B3%A0%EC%98%A4%EA%B8%B0) 
 
+</br>
 <H3>My project </H3>
 
 **[여행 모임 플랫폼 TGather](https://github.com/growth-genius)** </br>
@@ -44,7 +45,7 @@
 MSA를 적용한 사이드프로젝트 TGather입니다. </br>
 
 
-
+</br>
 <H3> Github </H3>
 
 역량 발전을 위해서 TIL, 1일 1commit을 통해 공부한 내용을 정리해나가고 있습니다.
