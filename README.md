@@ -41,10 +41,6 @@
 
 **[여행 모임 플랫폼 TGather](https://github.com/growth-genius)** </br>
 
-개발기간 : 2023.05 ~ 진행중 </br>
-
-MSA를 적용한 사이드프로젝트 TGather입니다. </br>
-
 
 </br>
 <H3> Github </H3>
