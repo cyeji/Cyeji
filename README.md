@@ -23,19 +23,6 @@
 
  </div>
 
-<H3> Work Experience </H3>
-
-|회사명|기간|역할|
-|---|--|--|
-|에스이파트너즈|2022.10.01~2023.04.30|풀스택 개발|
-|솔루엠|2020.09.01~2022.09.23|백엔드 개발|
-</br>
-<H3>My latest posts </H3>
-
-- 💡 [AWS Certified Cloud Practitioner 자격증 시험준비 및 후기](https://yejipro.tistory.com/entry/AWS-Certified-Cloud-Practitioner-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%8B%9C%ED%97%98%EC%A4%80%EB%B9%84-%EB%B0%8F-%ED%9B%84%EA%B8%B0) </br>
-- 💡 [스택과 큐 개념부터 활용까지](https://yejipro.tistory.com/entry/%EC%8A%A4%ED%83%9D%EA%B3%BC-%ED%81%90%EC%9D%98-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%ED%99%9C%EC%9A%A9%EA%B9%8C%EC%A7%80)
-- 💡 [컴퓨터 구조를 이루는 핵심 마인드맵으로 모아보기](https://yejipro.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EB%8A%94-%ED%95%B5%EC%8B%AC-%EB%A7%88%EC%9D%B8%EB%93%9C-%EB%A7%B5%EC%9C%BC%EB%A1%9C-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
-
 </br>
 <H3>My project </H3>
 
