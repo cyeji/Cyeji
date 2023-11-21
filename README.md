@@ -23,6 +23,12 @@
 
  </div>
 
+<H3>OpenSource</H3>
+
+|PR|Project|summary|released in|
+|--|--|--|--|
+|[#77180](https://github.com/firstcontributions/first-contributions/pull/77180)|first-contributions| contribution practice ||
+
 </br>
 <H3>My project </H3>
 
