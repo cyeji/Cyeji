@@ -1,10 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yejiCho&fontAlign=80&fontAlignY=40&color=gradient)
 
-<H3> Introduce </H3>
 
-다양한 경험을 통해 발전해나가고 있는 백엔드 개발자 조예지입니다.
 
-</br>
 <div>
 
 </div>
