@@ -35,8 +35,6 @@
 </br>
 <H3> Github </H3>
 
-역량 발전을 위해서 TIL, 1일 1commit을 통해 공부한 내용을 정리해나가고 있습니다.
-
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeji&show_icons=true&theme=tokyonight)
