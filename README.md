@@ -31,6 +31,12 @@
 
 **[여행 모임 플랫폼 TGather](https://github.com/growth-genius)** </br>
 
+|NO|Project(최신순)|
+|--|--|
+|1|[Food-Express](https://github.com/FoodsExpress)|
+|2|[쿠폰 서비스](https://github.com/cyeji/coupon-service)|
+|3|[여행 모임 플랫폼 TGather](https://github.com/growth-genius)|
+
 
 </br>
 <H3> Github </H3>
