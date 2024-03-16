@@ -29,8 +29,6 @@
 </br>
 <H3>My project </H3>
 
-**[여행 모임 플랫폼 TGather](https://github.com/growth-genius)** </br>
-
 |NO|Project(최신순)|
 |--|--|
 |1|[Food-Express](https://github.com/FoodsExpress)|
