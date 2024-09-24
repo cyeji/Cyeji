@@ -31,7 +31,7 @@
 
 |NO|Project(최신순)|
 |--|--|
-|1|[Food-Express](https://github.com/FoodsExpress)|
+|1|[master-slave](https://github.com/cyeji/master-slave)|
 |2|[쿠폰 서비스](https://github.com/cyeji/coupon-service)|
 |3|[여행 모임 플랫폼 TGather](https://github.com/growth-genius)|
 
