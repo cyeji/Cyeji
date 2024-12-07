@@ -29,11 +29,7 @@
 </br>
 <H3>My project </H3>
 
-|NO|Project(최신순)|
-|--|--|
-|1|[master-slave](https://github.com/cyeji/master-slave)|
-|2|[쿠폰 서비스](https://github.com/cyeji/coupon-service)|
-|3|[여행 모임 플랫폼 TGather](https://github.com/growth-genius)|
+설문조사 서비스 | 2024-12 | [설문조사 서비스](https://github.com/cyeji/be-onboarding-project)
 
 
 </br>
