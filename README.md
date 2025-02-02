@@ -20,15 +20,11 @@
 
  </div>
 
-<H3>OpenSource</H3>
-
-|PR|Project|summary|released in|
-|--|--|--|--|
-|[#77180](https://github.com/firstcontributions/first-contributions/pull/77180)|first-contributions| contribution practice ||
 
 </br>
 <H3>My project </H3>
 
+rate limiter | 2025-01 | [rate-limiter](https://github.com/innercicle-be-rate-limiter/rate-limiter-spring-boot-starter) </br>
 설문조사 서비스 | 2024-12 | [설문조사 서비스](https://github.com/cyeji/be-onboarding-project)
 
 
