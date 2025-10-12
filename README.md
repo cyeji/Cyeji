@@ -41,7 +41,7 @@ rate limiter | 2025-01 | [rate-limiter](https://github.com/innercicle-be-rate-li
 <H3> BaekJoon </H3>
 
 알고리즘 구현기술을 높히기 위해 꾸준히 알고리즘 문제를 풀어나가고 있습니다. </br>
-현재는 **['적중 알고리즘'](https://github.com/cote-algorithm-study)** 프로젝트를 만들어
+현재는 **['백준 알고리즘'](https://github.com/algorithm-cote-study/backjun-cote)** 프로젝트를 만들어
 함께 알고리즘 공부, 코드리뷰를 하고 있습니다.
 
 
